@@ -8,3 +8,5 @@ for i in L:
                 count+=1
         print(i,'->',count)
         printed.append(i)
+
+#Ye code har ek unique element ko count kr rah he, aur print kr rah he 
